@@ -1,0 +1,1125 @@
+﻿Log file open, 01/20/17 22:57:07
+LogInit:Display: Running engine for game: DiscoZombies
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(835424407) SRandInit(835424407).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.061240
+LogPluginManager: Loaded Plugin Paper2D, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.20-22.57.07:672][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.20-22.57.07:672][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.20-22.57.07:680][  0]LogInit: Computer: DESKTOP-LNJQ5MF
+[2017.01.20-22.57.07:680][  0]LogInit: User: Cakey
+[2017.01.20-22.57.07:680][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.20-22.57.07:680][  0]LogInit: High frequency timer resolution =3.421871 MHz
+[2017.01.20-22.57.07:680][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.01.20-22.57.07:680][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.20-22.57.07:680][  0]LogMemory: Process Physical Memory: 255.97 MB used, 255.97 MB peak
+[2017.01.20-22.57.07:680][  0]LogMemory: Process Virtual Memory: 259.85 MB used, 259.85 MB peak
+[2017.01.20-22.57.07:680][  0]LogMemory: Physical Memory: 5744.56 MB used, 8123.05 MB total
+[2017.01.20-22.57.07:680][  0]LogMemory: Virtual Memory: 622.36 MB used, 134217728.00 MB total
+[2017.01.20-22.57.07:700][  0]LogTextLocalizationManager: No specific translations for ('en-GB') exist, so ('en') translations will be used.
+[2017.01.20-22.57.08:111][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.20-22.57.08:129][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2017.01.20-22.57.08:129][  0]LogD3D11RHI:       8144/0/4061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.01.20-22.57.08:130][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.20-22.57.08:131][  0]LogD3D11RHI:       0/0/4061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.20-22.57.08:131][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.20-22.57.08:133][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.20-22.57.08:133][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.20-22.57.08:133][  0]LogWindows: EnumDisplayDevices:
+[2017.01.20-22.57.08:133][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2017.01.20-22.57.08:134][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.01.20-22.57.08:134][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.01.20-22.57.08:134][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.01.20-22.57.08:134][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.01.20-22.57.08:134][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2017.01.20-22.57.08:134][  0]LogD3D11RHI:   Driver Version: 373.06 (internal:21.21.13.7306, unified:373.06)
+[2017.01.20-22.57.08:134][  0]LogD3D11RHI:      Driver Date: 10-1-2016
+[2017.01.20-22.57.08:134][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.20-22.57.08:144][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.20-22.57.08:153][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.01.20-22.57.08:154][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Documents/Github/DiscoZombies/Intermediate/Shaders/WorkingDirectory/9992/).
+[2017.01.20-22.57.08:154][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cakey/AppData/Local/Temp/UnrealShaderWorkingDir/E66F83C6409A973333F5A395B196C1F2/'.
+[2017.01.20-22.57.08:154][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.20-22.57.08:836][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.20-22.57.08:841][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.20-22.57.08:846][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.20-22.57.08:851][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.20-22.57.08:855][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.20-22.57.08:860][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.20-22.57.08:864][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.20-22.57.08:868][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.20-22.57.08:873][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.20-22.57.08:877][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.20-22.57.08:882][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.20-22.57.08:891][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.20-22.57.08:891][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.20-22.57.08:891][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.20-22.57.08:908][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.20-22.57.08:912][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.20-22.57.08:916][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.20-22.57.08:920][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.20-22.57.08:925][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.20-22.57.08:929][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.20-22.57.08:929][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.20-22.57.08:962][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.20-22.57.09:009][  0]LogDerivedDataCache: Loaded boot cache 0.05s 62MB C:/Users/Cakey/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.01.20-22.57.09:009][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Cakey/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2017.01.20-22.57.09:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/Github/DiscoZombies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.20-22.57.09:009][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.20-22.57.09:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/Github/DiscoZombies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.20-22.57.09:009][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.20-22.57.09:021][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.20-22.57.09:032][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cakey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.20-22.57.09:169][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.20-22.57.09:171][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.20-22.57.09:233][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.01.20-22.57.09:233][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.20-22.57.09:233][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.01.20-22.57.09:275][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.20-22.57.09:472][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: discozombies, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 3812177004
+[2017.01.20-22.57.09:502][  0]LogAssetRegistry: FAssetRegistry took 0.0209 seconds to start up
+[2017.01.20-22.57.09:587][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.084200 seconds
+[2017.01.20-22.57.09:591][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2017.01.20-22.57.09:591][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2017.01.20-22.57.09:591][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.20-22.57.09:593][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.20-22.57.09:710][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.20-22.57.09:710][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.20-22.57.10:130][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.20-22.57.10:158][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.20-22.57.10:321][  0]SourceControl: Info Source control is disabled
+[2017.01.20-22.57.10:322][  0]SourceControl: Info Source control is disabled
+[2017.01.20-22.57.10:325][  0]SourceControl: Info Source control is disabled
+[2017.01.20-22.57.10:329][  0]SourceControl: Info Source control is disabled
+[2017.01.20-22.57.10:359][  0]LogLinker:Warning: Can't find file '/Engine/Transient'
+[2017.01.20-22.57.10:359][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Engine/Transient.REINST_TopDownOverview_C_158'
+[2017.01.20-22.57.10:465][  0]LogEngine: Initializing Engine...
+[2017.01.20-22.57.10:466][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.20-22.57.10:566][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.20-22.57.10:572][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.20-22.57.10:592][  0]LogInit: FAudioDevice initialized.
+[2017.01.20-22.57.10:618][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/Cakey/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.01.20-22.57.10:625][  0]LogInit: Texture streaming: Enabled
+[2017.01.20-22.57.10:639][  0]LogInit: Transaction tracking system initialized
+[2017.01.20-22.57.10:647][  0]BlueprintLog: New page: Editor Load
+[2017.01.20-22.57.10:730][  0]LocalizationService: Info Localization service is disabled
+[2017.01.20-22.57.10:788][  0]LogConsoleResponse:Display: 
+[2017.01.20-22.57.10:859][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.20-22.57.10:859][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.20-22.57.10:930][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Github/DiscoZombies/Content/' took 0.01s
+[2017.01.20-22.57.10:930][  0]SourceControl: Info Source control is disabled
+[2017.01.20-22.57.10:931][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Program Files (x86)/Epic Games/4.13/FeaturePacks/StarterContent.upack)
+[2017.01.20-22.57.10:935][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.01.20-22.57.10:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.01.20-22.57.10:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.01.20-22.57.11:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.01.20-22.57.11:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.01.20-22.57.11:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.01.20-22.57.11:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.01.20-22.57.11:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.01.20-22.57.11:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.01.20-22.57.11:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.01.20-22.57.11:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.01.20-22.57.11:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.01.20-22.57.11:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.01.20-22.57.11:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.01.20-22.57.11:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.01.20-22.57.11:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.01.20-22.57.11:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.01.20-22.57.11:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.01.20-22.57.11:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Fire01.uasset"
+[2017.01.20-22.57.11:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.01.20-22.57.11:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.01.20-22.57.11:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.01.20-22.57.11:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Light01.uasset"
+[2017.01.20-22.57.11:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.01.20-22.57.11:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Light02.uasset"
+[2017.01.20-22.57.11:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.01.20-22.57.11:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.01.20-22.57.11:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.01.20-22.57.11:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.01.20-22.57.11:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.01.20-22.57.11:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.01.20-22.57.11:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.01.20-22.57.11:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.01.20-22.57.11:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.01.20-22.57.11:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Steam01.uasset"
+[2017.01.20-22.57.11:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.01.20-22.57.11:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.01.20-22.57.11:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.01.20-22.57.11:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.01.20-22.57.11:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.01.20-22.57.11:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.01.20-22.57.11:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.01.20-22.57.11:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.01.20-22.57.11:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.01.20-22.57.11:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.01.20-22.57.12:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.01.20-22.57.12:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.01.20-22.57.12:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.01.20-22.57.12:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.01.20-22.57.12:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.01.20-22.57.12:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.01.20-22.57.12:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.01.20-22.57.12:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.01.20-22.57.12:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.01.20-22.57.12:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.01.20-22.57.12:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Maps/StarterMap.umap"
+[2017.01.20-22.57.12:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.01.20-22.57.12:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.01.20-22.57.12:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.01.20-22.57.12:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.01.20-22.57.12:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.01.20-22.57.12:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.01.20-22.57.12:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.01.20-22.57.12:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.01.20-22.57.12:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.01.20-22.57.12:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.01.20-22.57.12:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.01.20-22.57.12:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.01.20-22.57.12:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.01.20-22.57.12:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.01.20-22.57.12:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.01.20-22.57.12:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.01.20-22.57.12:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.01.20-22.57.12:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.01.20-22.57.12:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.01.20-22.57.12:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.01.20-22.57.12:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.01.20-22.57.12:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.01.20-22.57.12:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.01.20-22.57.12:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.01.20-22.57.12:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.01.20-22.57.12:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.01.20-22.57.12:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.01.20-22.57.12:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.01.20-22.57.12:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.01.20-22.57.12:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.01.20-22.57.12:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.01.20-22.57.12:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.01.20-22.57.12:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.01.20-22.57.12:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.01.20-22.57.12:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.01.20-22.57.12:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.01.20-22.57.12:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.01.20-22.57.12:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.01.20-22.57.12:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.01.20-22.57.12:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.01.20-22.57.12:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.01.20-22.57.12:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.01.20-22.57.12:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.01.20-22.57.12:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.01.20-22.57.12:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.01.20-22.57.12:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.01.20-22.57.12:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.01.20-22.57.12:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.01.20-22.57.12:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.01.20-22.57.12:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.01.20-22.57.12:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.01.20-22.57.12:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.01.20-22.57.12:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.01.20-22.57.12:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.01.20-22.57.12:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.01.20-22.57.12:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.01.20-22.57.12:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.01.20-22.57.12:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.01.20-22.57.12:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.01.20-22.57.12:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.01.20-22.57.12:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.01.20-22.57.12:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.01.20-22.57.12:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.01.20-22.57.12:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.01.20-22.57.12:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_Door.uasset"
+[2017.01.20-22.57.12:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.01.20-22.57.12:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.01.20-22.57.12:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.01.20-22.57.12:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.01.20-22.57.12:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.01.20-22.57.12:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.01.20-22.57.12:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.01.20-22.57.12:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.01.20-22.57.12:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.01.20-22.57.12:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.01.20-22.57.12:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.01.20-22.57.12:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.01.20-22.57.12:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.01.20-22.57.12:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.01.20-22.57.12:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.01.20-22.57.12:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.01.20-22.57.12:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.01.20-22.57.12:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.01.20-22.57.13:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.01.20-22.57.13:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.01.20-22.57.13:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.01.20-22.57.13:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.01.20-22.57.13:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.01.20-22.57.13:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.01.20-22.57.13:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.01.20-22.57.13:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.01.20-22.57.13:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.01.20-22.57.13:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.01.20-22.57.13:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.01.20-22.57.13:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.01.20-22.57.13:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.01.20-22.57.13:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.01.20-22.57.13:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.01.20-22.57.13:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.01.20-22.57.13:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.01.20-22.57.13:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.01.20-22.57.13:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.01.20-22.57.13:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.01.20-22.57.13:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.01.20-22.57.13:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.01.20-22.57.13:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.01.20-22.57.13:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.01.20-22.57.13:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.01.20-22.57.13:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.01.20-22.57.13:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.01.20-22.57.13:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.01.20-22.57.13:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.01.20-22.57.13:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.01.20-22.57.13:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.01.20-22.57.13:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.01.20-22.57.13:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.01.20-22.57.13:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.01.20-22.57.13:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.01.20-22.57.13:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.01.20-22.57.13:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.01.20-22.57.13:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.01.20-22.57.13:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.01.20-22.57.13:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.01.20-22.57.13:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.01.20-22.57.13:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.01.20-22.57.13:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.01.20-22.57.13:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.01.20-22.57.13:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.01.20-22.57.13:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.01.20-22.57.13:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.01.20-22.57.13:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.01.20-22.57.13:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.01.20-22.57.13:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.01.20-22.57.13:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.01.20-22.57.13:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.01.20-22.57.13:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.01.20-22.57.13:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.01.20-22.57.13:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.01.20-22.57.13:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.01.20-22.57.13:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.01.20-22.57.13:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.01.20-22.57.13:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.01.20-22.57.13:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.01.20-22.57.13:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.01.20-22.57.13:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.01.20-22.57.13:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.01.20-22.57.13:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.01.20-22.57.13:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.01.20-22.57.13:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.01.20-22.57.13:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.01.20-22.57.13:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.01.20-22.57.13:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.01.20-22.57.13:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.01.20-22.57.13:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.01.20-22.57.13:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.01.20-22.57.13:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.01.20-22.57.13:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.01.20-22.57.14:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.01.20-22.57.14:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.01.20-22.57.14:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.01.20-22.57.14:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.01.20-22.57.14:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.01.20-22.57.15:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.01.20-22.57.15:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.01.20-22.57.15:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.01.20-22.57.15:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.01.20-22.57.15:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.01.20-22.57.15:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.01.20-22.57.15:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.01.20-22.57.15:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.01.20-22.57.16:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.01.20-22.57.16:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.01.20-22.57.16:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.01.20-22.57.16:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.01.20-22.57.16:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.01.20-22.57.17:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.01.20-22.57.17:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.01.20-22.57.17:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.01.20-22.57.17:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.01.20-22.57.17:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.01.20-22.57.17:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.01.20-22.57.17:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.01.20-22.57.17:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.01.20-22.57.17:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.01.20-22.57.17:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.01.20-22.57.17:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.01.20-22.57.17:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.01.20-22.57.17:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.01.20-22.57.17:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.01.20-22.57.17:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.01.20-22.57.17:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.01.20-22.57.17:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.01.20-22.57.17:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.01.20-22.57.17:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.01.20-22.57.17:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.01.20-22.57.17:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.01.20-22.57.17:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.01.20-22.57.17:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.01.20-22.57.17:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.01.20-22.57.17:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.01.20-22.57.17:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.01.20-22.57.17:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.01.20-22.57.17:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.01.20-22.57.17:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.01.20-22.57.17:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.01.20-22.57.17:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.01.20-22.57.17:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.01.20-22.57.17:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.01.20-22.57.17:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.01.20-22.57.17:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.01.20-22.57.17:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.01.20-22.57.17:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.01.20-22.57.17:661][  0]LogRenderer: Reallocating scene render targets to support 256x256 (Frame:2).
+[2017.01.20-22.57.17:682][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2017.01.20-22.57.17:696][  0]LogSavePackage: Save=10.71ms
+[2017.01.20-22.57.17:696][  0]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/Floor_400x400656548004684C16C2FC36DB63C2B29B2.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.01.20-22.57.17:697][  0]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.01.20-22.57.17:698][  0]LogFeaturePack:Warning: Inserted 1 feature packs
+[2017.01.20-22.57.17:698][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.20-22.57.17:699][  0]LightingResults: New page: Lighting Build
+[2017.01.20-22.57.17:700][  0]MapCheck: New page: Map Check
+[2017.01.20-22.57.17:700][  0]LightingResults: New page: Lighting Build
+[2017.01.20-22.57.18:061][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.20-22.57.18:067][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.20-22.57.18:068][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.20-22.57.18:091][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 23.8ms to complete.
+[2017.01.20-22.57.18:092][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.393
+[2017.01.20-22.57.18:181][  0]LogCollectionManager: Loaded 0 collections in 0.000473 seconds
+[2017.01.20-22.57.18:219][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Github/DiscoZombies/Saved/Collections/' took 0.01s
+[2017.01.20-22.57.18:219][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Github/DiscoZombies/Content/Developers/Cakey/Collections/' took 0.01s
+[2017.01.20-22.57.18:219][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Github/DiscoZombies/Content/Collections/' took 0.01s
+[2017.01.20-22.57.18:219][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.20-22.57.18:225][  0]LogContentBrowser: Native class hierarchy populated in 0.0063 seconds. Added 2141 classes and 415 folders.
+[2017.01.20-22.57.18:227][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.20-22.57.18:227][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.20-22.57.18:227][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0004 seconds. Added 12 classes and 0 folders.
+[2017.01.20-22.57.18:229][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.01.20-22.57.18:252][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.01.20-22.57.18:255][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.01.20-22.57.18:298][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.20-22.57.18:302][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.20-22.57.18:325][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.01.20-22.57.18:326][  0]LogLoad: (Engine Initialization) Total time: 11.10 seconds
+[2017.01.20-22.57.18:326][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.12 seconds
+[2017.01.20-22.57.18:326][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.20-22.57.18:326][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.20-22.57.18:334][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.20-22.57.18:334][  0]LogOcInput: OculusInput pre-init called
+[2017.01.20-22.57.18:369][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.20-22.57.18:479][  0]LogRenderer: Reallocating scene render targets to support 968x484 (Frame:3).
+[2017.01.20-22.57.20:276][ 95]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.01.20-22.57.21:197][ 95]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.01.20-22.57.22:331][221]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2017.01.20-22.57.23:189][307]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.20-22.57.23:743][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.20-22.57.24:995][514]LogAssetRegistry: Asset discovery search completed in 15.5141 seconds
+[2017.01.20-22.57.24:995][514]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2017.01.20-22.57.34:246][779]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_TopDownController_C_0' or package '/Engine/Transient'.
+[2017.01.20-22.57.34:246][779]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_TopDownController_C_1' or package '/Engine/Transient'.
+[2017.01.20-22.57.34:246][779]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_TopDownController_C_29' or package '/Engine/Transient'.
+[2017.01.20-22.57.34:246][779]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_TopDownController_C_28' or package '/Engine/Transient'.
+[2017.01.20-22.57.37:788][ 28]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'CursorToWorld' or package '/Engine/Transient'.
+[2017.01.20-22.57.40:107][225]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 112 classes and 0 folders.
+[2017.01.20-22.58.03:506][884]LogLinker:Warning: Can't find file '/Game/Blueprints/TopDownCharacter'
+[2017.01.20-22.58.03:506][884]LogLinker: Can't find file '/Game/Blueprints/TopDownCharacter'
+[2017.01.20-22.58.03:514][884]LogLinker: Can't find file '/Game/Blueprints/TopDownCharacter'
+[2017.01.20-22.58.19:066][671]BlueprintLog: New page: Compile TopDownCharacter
+[2017.01.20-22.58.21:861][941]LogSavePackage: Save=223.87ms
+[2017.01.20-22.58.21:861][941]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownExampleMap8D8F344C43642B4ACBDFA185D6AF8BEC.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.20-22.58.21:864][941]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.20-22.58.21:925][941]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.438
+[2017.01.20-22.58.21:937][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2017.01.20-22.58.21:976][941]LogSavePackage: Save=25.06ms
+[2017.01.20-22.58.21:976][941]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownCharacter2F37C66746A85325FD81ECAD1A55F82B.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2017.01.20-22.58.21:977][941]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2017.01.20-22.58.21:980][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownGameMode" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2017.01.20-22.58.21:990][941]LogSavePackage: Save=6.36ms
+[2017.01.20-22.58.21:990][941]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownGameModeCF855B4A45CC997683E14BA9D52C97C3.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownGameMode.uasset'
+[2017.01.20-22.58.21:991][941]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownGameMode.uasset
+[2017.01.20-22.58.24:223][207]MapCheck: New page: Map Check
+[2017.01.20-22.58.24:340][207]Cmd: MAP REBUILD ALLVISIBLE
+[2017.01.20-22.58.24:342][207]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.01.20-22.58.24:705][207]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.01.20-22.58.24:823][207]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2017.01.20-22.58.24:832][207]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2017.01.20-22.58.24:841][207]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2017.01.20-22.58.24:847][207]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2017.01.20-22.58.24:858][207]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2017.01.20-22.58.24:863][207]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.01.20-22.58.25:952][207]LogLevel:Display: Export Material TexCoord Scales took 0.054 seconds.
+[2017.01.20-22.58.25:968][207]TextureStreamingBuild:Display: Build Texture Streaming took 0.015 seconds.
+[2017.01.20-22.58.26:003][207]LightingResults: New page: Lighting Build - 20 Jan 2017 22:58:25
+[2017.01.20-22.58.26:139][207]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.01.20-22.58.26:246][207]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.01.20-22.58.26:258][207]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.01.20-22.58.26:783][207]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.01.20-22.58.26:784][207]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9992
+[2017.01.20-22.58.30:216][207]LogEditorBuildUtils: Build time 0:05
+[2017.01.20-22.58.30:374][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.20-22.58.31:495][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-22.58.31:510][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.20-22.58.31:531][343]PIE: New page: PIE session: TopDownExampleMap (20 Jan 2017 22:58:31)
+[2017.01.20-22.58.31:540][343]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.20-22.58.31:574][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034233s)
+[2017.01.20-22.58.31:575][343]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.20-22.58.31:580][343]LogPlayLevel: PIE: World Init took: (0.004706s)
+[2017.01.20-22.58.31:584][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.043411s)
+[2017.01.20-22.58.31:604][343]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.20-22.58.31:626][343]LogInit: FAudioDevice initialized.
+[2017.01.20-22.58.31:737][343]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.20-22.58.31:825][343]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.20-22.58.31
+[2017.01.20-22.58.31:831][343]LogWorld: Bringing up level for play took: 0.008044
+[2017.01.20-22.58.31:852][343]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.01.20-22.58.31:852][343]LogGameMode: Couldn't spawn player controller of class NULL
+[2017.01.20-22.58.31:852][343]LogSpawn:Warning: Login failed: Failed to spawn player controller
+[2017.01.20-22.58.35:199][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-22.58.35:316][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-22.58.36:752][497]MapCheck: New page: Map Check
+[2017.01.20-22.58.36:757][497]Cmd: MAP REBUILD ALLVISIBLE
+[2017.01.20-22.58.36:757][497]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.01.20-22.58.36:854][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.01.20-22.58.36:859][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2017.01.20-22.58.36:863][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2017.01.20-22.58.36:868][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2017.01.20-22.58.36:874][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2017.01.20-22.58.36:880][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2017.01.20-22.58.36:884][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.01.20-22.58.37:350][497]LogLevel:Display: Export Material TexCoord Scales took 0.003 seconds.
+[2017.01.20-22.58.37:354][497]TextureStreamingBuild:Display: Build Texture Streaming took 0.004 seconds.
+[2017.01.20-22.58.37:364][497]LightingResults: New page: Lighting Build - 20 Jan 2017 22:58:37
+[2017.01.20-22.58.37:369][497]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.01.20-22.58.37:370][497]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.01.20-22.58.37:370][497]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.01.20-22.58.37:371][497]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.01.20-22.58.37:371][497]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9992
+[2017.01.20-22.58.41:955][497]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.01.20-22.58.41:955][497]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.01.20-22.58.41:955][497]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.01.20-22.58.41:955][497]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.01.20-22.58.41:955][497]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.01.20-22.58.42:083][497]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.01.20-22.58.42:083][497]MapCheck: New page: TopDownExampleMap - 20 Jan 2017 22:58:42
+[2017.01.20-22.58.42:117][497]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 33.654ms to complete.
+[2017.01.20-22.58.42:139][497]LogEditorBuildUtils: Build time 0:05
+[2017.01.20-22.58.48:096][516]Job is a success!
+[2017.01.20-22.58.50:528][517]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2017.01.20-22.58.50:528][517]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.01.20-22.58.50:528][517]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.20-22.58.50:528][517]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2017.01.20-22.58.50:528][517]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.20-22.58.50:528][517]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.20-22.58.50:528][517]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2017.01.20-22.58.50:528][517]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.01.20-22.58.50:528][517]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.01.20-22.58.50:913][517]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2017.01.20-22.58.50:913][517]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2017.01.20-22.58.51:016][517]LogStaticLightingSystem: Illumination: 13.3 sec (1.82 sec encoding lightmaps, 383 ms encoding shadowmaps)
+[2017.01.20-22.58.51:016][517]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.01.20-22.58.51:016][517]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.01.20-22.58.52:024][518]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.01.20-22.58.52:025][518]MapCheck: New page: TopDownExampleMap - 20 Jan 2017 22:58:52
+[2017.01.20-22.58.52:067][518]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 42.175ms to complete.
+[2017.01.20-22.59.24:724][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-22.59.24:724][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.20-22.59.24:724][961]PIE: New page: PIE session: TopDownExampleMap (20 Jan 2017 22:59:24)
+[2017.01.20-22.59.24:725][961]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.20-22.59.24:741][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016175s)
+[2017.01.20-22.59.24:742][961]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.20-22.59.24:742][961]LogPlayLevel: PIE: World Init took: (0.001286s)
+[2017.01.20-22.59.24:742][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017685s)
+[2017.01.20-22.59.24:773][961]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.20-22.59.24:790][961]LogInit: FAudioDevice initialized.
+[2017.01.20-22.59.24:837][961]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.20-22.59.24:840][961]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.20-22.59.24
+[2017.01.20-22.59.24:840][961]LogWorld: Bringing up level for play took: 0.002665
+[2017.01.20-22.59.24:840][961]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.01.20-22.59.24:840][961]LogGameMode: Couldn't spawn player controller of class NULL
+[2017.01.20-22.59.24:840][961]LogSpawn:Warning: Login failed: Failed to spawn player controller
+[2017.01.20-22.59.28:836][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-22.59.28:881][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-22.59.29:536][ 35]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2017.01.20-22.59.44:874][809]BlueprintLog: New page: Compile TopDownGameMode
+[2017.01.20-22.59.48:975][247]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-22.59.48:975][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.20-22.59.48:975][247]PIE: New page: PIE session: TopDownExampleMap (20 Jan 2017 22:59:48)
+[2017.01.20-22.59.48:975][247]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.20-22.59.48:991][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015418s)
+[2017.01.20-22.59.48:991][247]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.20-22.59.48:991][247]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2017.01.20-22.59.48:992][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016270s)
+[2017.01.20-22.59.49:005][247]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.20-22.59.49:022][247]LogInit: FAudioDevice initialized.
+[2017.01.20-22.59.49:053][247]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.20-22.59.49:056][247]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.20-22.59.49
+[2017.01.20-22.59.49:056][247]LogWorld: Bringing up level for play took: 0.002751
+[2017.01.20-22.59.49:189][247]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.01.20-22.59.49:207][247]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.20-22.59.49:215][247]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.20-22.59.49:215][247]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.20-22.59.49:231][247]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.20-22.59.49:231][247]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.898
+[2017.01.20-22.59.49:231][247]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-22.59.55:740][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-22.59.55:825][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-23.00.17:329][435]LogRenderer: Reallocating scene render targets to support 968x600 (Frame:10713).
+[2017.01.20-23.00.23:219][126]BlueprintLog: New page: Compile TopDownCharacter
+[2017.01.20-23.00.23:239][126]LogBlueprint:Error: [Compiler TopDownCharacter] Error This blueprint (self) is not a ActorComponent, therefore ' self ' must have a connection.
+[2017.01.20-23.00.23:564][126]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ActorComponent, therefore ' self ' must have a connection.
+[2017.01.20-23.00.23:574][126]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0196.34] Compile of TopDownCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 354 ms] (/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter)
+[2017.01.20-23.00.24:027][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2017.01.20-23.00.24:052][174]LogSavePackage: Save=23.44ms
+[2017.01.20-23.00.24:052][174]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownCharacterC87C09D94B91CB0BE8B260A57E7161D8.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2017.01.20-23.00.24:053][174]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2017.01.20-23.01.07:040][281]BlueprintLog: New page: Compile TopDownCharacter
+[2017.01.20-23.01.07:618][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2017.01.20-23.01.07:640][337]LogSavePackage: Save=21.21ms
+[2017.01.20-23.01.07:640][337]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownCharacter475CBEF7440D2C814854279958A79CC2.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2017.01.20-23.01.07:641][337]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2017.01.20-23.01.10:308][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-23.01.10:308][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.20-23.01.10:308][656]PIE: New page: PIE session: TopDownExampleMap (20 Jan 2017 23:01:10)
+[2017.01.20-23.01.10:308][656]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.20-23.01.10:324][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015993s)
+[2017.01.20-23.01.10:325][656]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.20-23.01.10:325][656]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2017.01.20-23.01.10:326][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017305s)
+[2017.01.20-23.01.10:340][656]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.20-23.01.10:357][656]LogInit: FAudioDevice initialized.
+[2017.01.20-23.01.10:385][656]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.20-23.01.10:388][656]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.20-23.01.10
+[2017.01.20-23.01.10:388][656]LogWorld: Bringing up level for play took: 0.002507
+[2017.01.20-23.01.10:389][656]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.20-23.01.10:389][656]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.20-23.01.10:389][656]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.20-23.01.10:389][656]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.20-23.01.10:389][656]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.056
+[2017.01.20-23.01.10:389][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-23.01.16:438][372]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-23.01.16:495][372]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-23.01.19:704][728]LogSavePackage: Save=177.71ms
+[2017.01.20-23.01.19:704][728]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownExampleMapD274001941E6B7FFAEE8E294D82A1269.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.20-23.01.19:706][728]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.20-23.01.19:714][728]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.224
+[2017.01.20-23.01.19:715][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownGameMode" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2017.01.20-23.01.19:722][728]LogSavePackage: Save=6.17ms
+[2017.01.20-23.01.19:722][728]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownGameMode430B442C44C608A2F5AD19AC556AC241.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownGameMode.uasset'
+[2017.01.20-23.01.19:723][728]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownGameMode.uasset
+[2017.01.20-23.03.29:509][569]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-23.03.29:509][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.20-23.03.29:510][569]PIE: New page: PIE session: TopDownExampleMap (20 Jan 2017 23:03:29)
+[2017.01.20-23.03.29:510][569]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.20-23.03.29:541][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031587s)
+[2017.01.20-23.03.29:542][569]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.20-23.03.29:542][569]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2017.01.20-23.03.29:542][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.032645s)
+[2017.01.20-23.03.29:557][569]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.20-23.03.29:573][569]LogInit: FAudioDevice initialized.
+[2017.01.20-23.03.29:600][569]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.20-23.03.29:603][569]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.20-23.03.29
+[2017.01.20-23.03.29:603][569]LogWorld: Bringing up level for play took: 0.002670
+[2017.01.20-23.03.29:603][569]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.20-23.03.29:603][569]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.20-23.03.29:603][569]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.20-23.03.29:603][569]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.20-23.03.29:603][569]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.729
+[2017.01.20-23.03.29:604][569]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-23.04.56:716][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-23.04.56:776][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.20-23.05.57:387][771]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.01.20-23.06.06:769][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.20-23.08.27:502][899]Cmd: TRANSACTION UNDO
+[2017.01.20-23.08.27:502][899]LogEditorTransaction: Undo Move Actors
+[2017.01.20-23.08.28:078][964]LogEditorViewport: Clicking on Actor (LMB): Controller_C (Controller)
+[2017.01.20-23.08.28:612][ 27]LogEditorViewport: Clicking on Actor (context menu): Controller_C (Controller)
+[2017.01.20-23.11.07:839][866]LogSavePackage: Save=194.22ms
+[2017.01.20-23.11.07:839][866]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownExampleMap5EC3EE5E41D77183328B03AE15AC04BD.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.20-23.11.07:841][866]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.20-23.11.07:850][866]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.251
+[2017.01.20-23.11.07:861][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2017.01.20-23.11.07:887][866]LogSavePackage: Save=22.27ms
+[2017.01.20-23.11.07:887][866]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownCharacter5B99731C49176D1F130755BEB539062A.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2017.01.20-23.11.07:888][866]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2017.01.20-23.11.07:890][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Controller" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/Controller.uasset" SILENT=true
+[2017.01.20-23.11.07:911][866]LogSavePackage: Save=15.71ms
+[2017.01.20-23.11.07:911][866]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/Controller0B3870A84F6CD3357E2277899108DCA2.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/Controller.uasset'
+[2017.01.20-23.11.07:912][866]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/Controller.uasset
+[2017.01.20-23.11.08:260][901]BlueprintLog: New page: Compile Controller
+[2017.01.20-23.11.26:464][ 12]BlueprintLog: New page: Compile TopDownCharacter
+[2017.01.20-23.11.31:304][475]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.01.20-23.11.34:351][831]LogEditorViewport: Clicking on Actor (LMB): Controller_C (Controller)
+[2017.01.20-23.11.34:675][869]LogEditorViewport: Clicking on Actor (context menu): Controller_C (Controller)
+[2017.01.20-23.11.40:296][507]LogSavePackage: Save=177.51ms
+[2017.01.20-23.11.40:296][507]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownExampleMap48E6F1FA4C7618ABFD60A5B3DE9A4424.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.20-23.11.40:298][507]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.20-23.11.40:303][507]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.222
+[2017.01.20-23.13.32:000][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2017.01.20-23.13.32:025][699]LogSavePackage: Save=22.69ms
+[2017.01.20-23.13.32:025][699]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownCharacterFA33B5684AB7E0221797A5B1CD219FF1.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2017.01.20-23.13.32:026][699]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2017.01.20-23.23.18:586][579]LogSavePackage: Save=181.90ms
+[2017.01.20-23.23.18:586][579]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownExampleMap_Auto15DD048354644D6D2C28927A8DFBCD0B7.tmp' to '../../../../../../Documents/Github/DiscoZombies/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2017.01.20-23.23.18:587][579]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+[2017.01.20-23.23.18:588][579]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.234
+[2017.01.20-23.23.18:588][579]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
+[2017.01.20-23.23.18:599][579]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2017.01.20-23.23.18:608][579]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2017.01.20-23.23.18:608][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2017.01.20-23.23.18:637][579]LogSavePackage: Save=24.97ms
+[2017.01.20-23.23.18:637][579]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownCharacter_Auto13A929B2E461B04FC0E63F9BC23DBEE39.tmp' to '../../../../../../Documents/Github/DiscoZombies/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto1.uasset'
+[2017.01.20-23.23.18:637][579]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto1.uasset
+[2017.01.20-23.23.18:637][579]LogFileHelpers: Auto-saving content packages took 0.043
+[2017.01.20-23.28.51:136][648]LogSavePackage: Save=184.17ms
+[2017.01.20-23.28.51:136][648]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownExampleMap22EC8BD04D1C8208B5388DB529B79278.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.20-23.28.51:140][648]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.20-23.28.51:156][648]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.252
+[2017.01.20-23.28.51:165][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2017.01.20-23.28.51:197][648]LogSavePackage: Save=26.80ms
+[2017.01.20-23.28.51:197][648]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownCharacterD4F2D2934F2DE3E2219C61AD54BC455F.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2017.01.20-23.28.51:200][648]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2017.01.20-23.28.51:733][710]BlueprintLog: New page: Compile TopDownCharacter
+[2017.01.20-23.28.51:753][710]LogBlueprint:Error: [Compiler TopDownCharacter] Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_0  to imply a specific type.
+[2017.01.20-23.28.51:753][710]LogBlueprint:Error: [Compiler TopDownCharacter] Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_3  to imply a specific type.
+[2017.01.20-23.28.51:753][710]LogBlueprint:Error: [Compiler TopDownCharacter] Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2017.01.20-23.28.51:753][710]LogBlueprint:Error: [Compiler TopDownCharacter] Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2017.01.20-23.28.51:862][710]BlueprintEditorCompileResults:Error: Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_0  to imply a specific type.
+[2017.01.20-23.28.51:862][710]BlueprintEditorCompileResults:Error: Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_3  to imply a specific type.
+[2017.01.20-23.28.51:862][710]BlueprintEditorCompileResults:Error: Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2017.01.20-23.28.51:862][710]BlueprintEditorCompileResults:Error: Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2017.01.20-23.28.51:862][710]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [1904.63] Compile of TopDownCharacter failed. 4 Fatal Issue(s) 0 Warning(s) [in 129 ms] (/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter)
+[2017.01.20-23.29.03:463][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2017.01.20-23.29.03:490][ 90]LogSavePackage: Save=25.80ms
+[2017.01.20-23.29.03:490][ 90]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownCharacterFD42B36E4553C6195F4C9F8C70163E44.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2017.01.20-23.29.03:491][ 90]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2017.01.20-23.32.44:036][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2017.01.20-23.32.44:058][526]LogSavePackage: Save=20.23ms
+[2017.01.20-23.32.44:058][526]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownCharacter53755A3145A1CA5B5E0EB8A84CE67555.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2017.01.20-23.32.44:059][526]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2017.01.20-23.33.08:362][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Controller" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/Controller.uasset" SILENT=true
+[2017.01.20-23.33.08:383][280]LogSavePackage: Save=16.36ms
+[2017.01.20-23.33.08:383][280]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/Controller26256BD04D5DE8B7C0105DA0B44E833E.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/Controller.uasset'
+[2017.01.20-23.33.08:384][280]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/Controller.uasset
+[2017.01.20-23.35.50:855][798]LogEditorTransaction: Undo Set actor scale
+[2017.01.20-23.38.51:710][922]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.014
+[2017.01.20-23.38.51:711][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/SoundWave] ([1] browsable assets)...
+[2017.01.20-23.38.51:730][922]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/SoundWave.SoundWave]
+[2017.01.20-23.38.51:730][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/SoundWave]
+[2017.01.20-23.38.51:743][922]LogSavePackage: Save=13.00ms
+[2017.01.20-23.38.51:743][922]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/SoundWave_Auto279D61EE747FCF1C4A10C20B74C5477F0.tmp' to '../../../../../../Documents/Github/DiscoZombies/Saved/Autosaves/Game/TopDownBP/Blueprints/SoundWave_Auto2.uasset'
+[2017.01.20-23.38.51:744][922]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Saved/Autosaves/Game/TopDownBP/Blueprints/SoundWave_Auto2.uasset
+[2017.01.20-23.38.51:744][922]LogFileHelpers: Auto-saving content packages took 0.033
+[2017.01.20-23.40.03:390][786]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.01.20-23.40.05:078][978]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.01.20-23.40.28:536][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.01.20-23.40.59:927][ 74]Cmd: DELETE
+[2017.01.20-23.40.59:928][ 74]Cmd: ACTOR DELETE
+[2017.01.20-23.41.00:035][ 74]LogEditorActor: Deleted Actor: SoundWave_C
+[2017.01.20-23.41.00:066][ 74]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2017.01.20-23.48.52:662][344]LogSavePackage: Save=219.62ms
+[2017.01.20-23.48.52:662][344]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownExampleMap_Auto31BB6AA1A46418BB010F5058820A0EED3.tmp' to '../../../../../../Documents/Github/DiscoZombies/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2017.01.20-23.48.52:662][344]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap
+[2017.01.20-23.48.52:665][344]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.246
+[2017.01.20-23.48.52:665][344]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.246
+[2017.01.21-00.09.57:827][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/SoundWave" FILE="../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/SoundWave.uasset" SILENT=true
+[2017.01.21-00.09.57:861][137]LogSavePackage: Save=28.83ms
+[2017.01.21-00.09.57:861][137]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/SoundWave4CD02C9B4D12E9A81DADE1A3BD83309D.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/SoundWave.uasset'
+[2017.01.21-00.09.57:864][137]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Blueprints/SoundWave.uasset
+[2017.01.21-00.10.01:690][137]LogSavePackage: Save=219.09ms
+[2017.01.21-00.10.01:690][137]LogSavePackage: Moving '../../../../../../Documents/Github/DiscoZombies/Saved/TopDownExampleMap26ACFAA44EBE34431C0828AD3659A3EC.tmp' to '../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.21-00.10.01:693][137]LogSavePackage:Display: Finished SavePackage ../../../../../../Documents/Github/DiscoZombies/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.21-00.10.01:725][137]LogFileHelpers: Saving map 'TopDownExampleMap' took 3.859
+[2017.01.21-00.10.02:426][138]Cmd: QUIT_EDITOR
+[2017.01.21-00.10.03:361][138]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.21-00.10.03:539][138]LogExit: Preparing to exit.
+[2017.01.21-00.10.04:501][138]LogDirectoryWatcher: A directory notification for 'D:/Documents/Github/DiscoZombies/Content/' was aborted.
+[2017.01.21-00.10.04:695][138]LogExit: Editor shut down
+[2017.01.21-00.10.04:696][138]LogExit: Transaction tracking system shut down
+[2017.01.21-00.10.06:252][138]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.21-00.10.06:254][138]LogExit: Object subsystem successfully closed.
+[2017.01.21-00.10.06:422][138]LogD3D11RHI: Shutdown
+[2017.01.21-00.10.06:422][138]LogD3D11RHI: CleanupD3DDevice
+[2017.01.21-00.10.06:555][138]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.21-00.10.07:119][138]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (238)
+[2017.01.21-00.10.07:119][138]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (237)
+[2017.01.21-00.10.07:119][138]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (236)
+[2017.01.21-00.10.07:128][138]LogModuleManager: Shutting down and abandoning module BlueprintGraph (235)
+[2017.01.21-00.10.07:128][138]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (234)
+[2017.01.21-00.10.07:154][138]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2017.01.21-00.10.07:161][138]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2017.01.21-00.10.07:171][138]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2017.01.21-00.10.07:171][138]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2017.01.21-00.10.07:171][138]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2017.01.21-00.10.07:188][138]LogDirectoryWatcher: A directory notification for 'D:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2017.01.21-00.10.07:201][138]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2017.01.21-00.10.07:201][138]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2017.01.21-00.10.07:201][138]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2017.01.21-00.10.07:209][138]LogDirectoryWatcher: A directory notification for 'D:/Documents/Github/DiscoZombies/Content/Collections/' was aborted.
+[2017.01.21-00.10.07:209][138]LogDirectoryWatcher: A directory notification for 'D:/Documents/Github/DiscoZombies/Content/Developers/Cakey/Collections/' was aborted.
+[2017.01.21-00.10.07:209][138]LogDirectoryWatcher: A directory notification for 'D:/Documents/Github/DiscoZombies/Saved/Collections/' was aborted.
+[2017.01.21-00.10.07:209][138]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2017.01.21-00.10.07:228][138]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2017.01.21-00.10.07:234][138]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2017.01.21-00.10.07:255][138]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2017.01.21-00.10.07:255][138]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2017.01.21-00.10.07:255][138]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2017.01.21-00.10.07:256][138]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2017.01.21-00.10.07:256][138]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2017.01.21-00.10.07:260][138]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2017.01.21-00.10.07:271][138]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2017.01.21-00.10.07:271][138]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2017.01.21-00.10.07:287][138]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2017.01.21-00.10.07:292][138]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2017.01.21-00.10.07:296][138]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2017.01.21-00.10.07:310][138]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2017.01.21-00.10.07:328][138]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2017.01.21-00.10.07:329][138]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2017.01.21-00.10.07:329][138]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2017.01.21-00.10.07:329][138]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2017.01.21-00.10.07:329][138]LogModuleManager: Shutting down and abandoning module Media (206)
+[2017.01.21-00.10.07:329][138]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2017.01.21-00.10.07:329][138]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2017.01.21-00.10.07:329][138]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2017.01.21-00.10.07:329][138]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2017.01.21-00.10.07:329][138]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2017.01.21-00.10.07:329][138]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2017.01.21-00.10.07:329][138]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2017.01.21-00.10.07:329][138]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2017.01.21-00.10.07:343][138]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2017.01.21-00.10.07:359][138]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2017.01.21-00.10.07:367][138]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2017.01.21-00.10.07:370][138]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2017.01.21-00.10.07:377][138]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2017.01.21-00.10.07:377][138]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2017.01.21-00.10.08:158][138]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2017.01.21-00.10.08:170][138]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2017.01.21-00.10.08:170][138]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2017.01.21-00.10.08:170][138]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2017.01.21-00.10.08:189][138]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2017.01.21-00.10.08:200][138]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2017.01.21-00.10.08:209][138]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2017.01.21-00.10.08:220][138]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2017.01.21-00.10.08:220][138]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2017.01.21-00.10.08:230][138]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2017.01.21-00.10.08:244][138]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2017.01.21-00.10.08:244][138]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2017.01.21-00.10.08:250][138]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2017.01.21-00.10.08:257][138]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2017.01.21-00.10.08:257][138]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2017.01.21-00.10.08:266][138]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2017.01.21-00.10.08:275][138]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2017.01.21-00.10.08:282][138]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2017.01.21-00.10.08:283][138]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2017.01.21-00.10.08:303][138]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2017.01.21-00.10.08:303][138]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2017.01.21-00.10.08:303][138]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2017.01.21-00.10.08:319][138]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2017.01.21-00.10.08:328][138]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2017.01.21-00.10.08:339][138]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2017.01.21-00.10.08:339][138]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2017.01.21-00.10.08:391][138]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2017.01.21-00.10.08:397][138]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2017.01.21-00.10.08:417][138]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2017.01.21-00.10.08:430][138]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2017.01.21-00.10.08:430][138]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2017.01.21-00.10.08:440][138]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2017.01.21-00.10.08:440][138]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2017.01.21-00.10.08:440][138]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2017.01.21-00.10.08:477][138]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2017.01.21-00.10.08:493][138]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2017.01.21-00.10.08:494][138]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2017.01.21-00.10.08:502][138]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2017.01.21-00.10.08:508][138]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2017.01.21-00.10.08:514][138]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2017.01.21-00.10.08:531][138]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2017.01.21-00.10.08:538][138]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2017.01.21-00.10.08:558][138]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2017.01.21-00.10.08:562][138]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2017.01.21-00.10.08:599][138]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2017.01.21-00.10.08:599][138]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2017.01.21-00.10.08:599][138]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2017.01.21-00.10.08:599][138]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2017.01.21-00.10.08:599][138]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2017.01.21-00.10.08:599][138]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2017.01.21-00.10.08:622][138]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2017.01.21-00.10.08:630][138]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2017.01.21-00.10.08:639][138]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2017.01.21-00.10.08:829][138]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2017.01.21-00.10.08:847][138]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2017.01.21-00.10.08:847][138]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2017.01.21-00.10.08:847][138]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2017.01.21-00.10.08:847][138]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2017.01.21-00.10.08:852][138]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2017.01.21-00.10.08:852][138]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2017.01.21-00.10.08:858][138]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2017.01.21-00.10.08:858][138]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2017.01.21-00.10.08:858][138]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2017.01.21-00.10.08:860][138]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2017.01.21-00.10.08:860][138]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2017.01.21-00.10.08:881][138]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2017.01.21-00.10.08:881][138]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2017.01.21-00.10.08:881][138]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2017.01.21-00.10.08:881][138]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2017.01.21-00.10.08:881][138]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2017.01.21-00.10.08:884][138]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2017.01.21-00.10.08:884][138]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2017.01.21-00.10.08:884][138]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2017.01.21-00.10.08:884][138]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2017.01.21-00.10.08:895][138]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2017.01.21-00.10.08:914][138]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2017.01.21-00.10.08:919][138]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2017.01.21-00.10.08:930][138]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2017.01.21-00.10.08:940][138]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2017.01.21-00.10.08:940][138]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2017.01.21-00.10.08:942][138]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2017.01.21-00.10.08:950][138]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2017.01.21-00.10.08:958][138]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2017.01.21-00.10.08:962][138]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2017.01.21-00.10.08:962][138]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2017.01.21-00.10.08:966][138]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2017.01.21-00.10.08:974][138]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2017.01.21-00.10.08:984][138]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2017.01.21-00.10.08:994][138]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2017.01.21-00.10.09:003][138]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2017.01.21-00.10.09:021][138]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2017.01.21-00.10.09:021][138]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2017.01.21-00.10.09:024][138]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2017.01.21-00.10.09:028][138]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2017.01.21-00.10.09:048][138]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2017.01.21-00.10.09:149][138]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2017.01.21-00.10.09:254][138]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2017.01.21-00.10.09:254][138]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2017.01.21-00.10.09:266][138]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2017.01.21-00.10.09:271][138]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2017.01.21-00.10.09:283][138]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2017.01.21-00.10.09:283][138]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2017.01.21-00.10.09:294][138]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2017.01.21-00.10.09:303][138]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2017.01.21-00.10.09:303][138]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2017.01.21-00.10.09:303][138]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2017.01.21-00.10.09:303][138]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2017.01.21-00.10.09:336][138]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2017.01.21-00.10.09:336][138]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2017.01.21-00.10.09:349][138]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2017.01.21-00.10.09:394][138]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2017.01.21-00.10.09:394][138]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2017.01.21-00.10.09:394][138]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2017.01.21-00.10.09:417][138]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2017.01.21-00.10.09:469][138]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2017.01.21-00.10.09:481][138]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2017.01.21-00.10.09:502][138]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2017.01.21-00.10.09:502][138]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2017.01.21-00.10.09:516][138]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2017.01.21-00.10.09:516][138]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2017.01.21-00.10.09:516][138]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2017.01.21-00.10.09:516][138]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2017.01.21-00.10.09:516][138]LogModuleManager: Shutting down and abandoning module Core (67)
+[2017.01.21-00.10.09:516][138]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2017.01.21-00.10.09:516][138]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.21-00.10.09:517][138]LogDirectoryWatcher: A directory notification for '../../../../../../Documents/Github/DiscoZombies/Content/' was aborted.
+[2017.01.21-00.10.09:517][138]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.21-00.10.09:520][138]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2017.01.21-00.10.09:674][138]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2017.01.21-00.10.09:674][138]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2017.01.21-00.10.09:674][138]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2017.01.21-00.10.09:686][138]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2017.01.21-00.10.09:723][138]LogDerivedDataCache: Shutdown
+[2017.01.21-00.10.09:723][138]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2017.01.21-00.10.09:728][138]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2017.01.21-00.10.09:733][138]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2017.01.21-00.10.09:742][138]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2017.01.21-00.10.09:746][138]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2017.01.21-00.10.09:746][138]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2017.01.21-00.10.09:752][138]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2017.01.21-00.10.09:752][138]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2017.01.21-00.10.09:762][138]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2017.01.21-00.10.09:762][138]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2017.01.21-00.10.09:762][138]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2017.01.21-00.10.09:762][138]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2017.01.21-00.10.09:790][138]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2017.01.21-00.10.09:796][138]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2017.01.21-00.10.09:799][138]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2017.01.21-00.10.09:799][138]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2017.01.21-00.10.09:803][138]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2017.01.21-00.10.09:818][138]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2017.01.21-00.10.09:828][138]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2017.01.21-00.10.09:834][138]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2017.01.21-00.10.09:842][138]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2017.01.21-00.10.09:846][138]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.21-00.10.09:846][138]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.21-00.10.09:846][138]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.21-00.10.09:846][138]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.21-00.10.09:857][138]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.21-00.10.09:863][138]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2017.01.21-00.10.09:863][138]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2017.01.21-00.10.09:863][138]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2017.01.21-00.10.09:863][138]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2017.01.21-00.10.09:871][138]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.21-00.10.09:885][138]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.21-00.10.09:885][138]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.21-00.10.09:885][138]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B434101BE-4DAF-F84A-0A08-12B5C4D4084D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=2c68b3d34a2ff393ef8809af1f2d0737%7C343a29605e6847c39be881812467364e%7C784240d5-f3a2-428b-aba0-8a5b4b0270e5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.21-00.10.09:907][138]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.21-00.10.09:920][138]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.21-00.10.09:920][138]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.21-00.10.09:920][138]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.21-00.10.09:920][138]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.21-00.10.10:004][138]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.21-00.10.10:014][138]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.21-00.10.10:014][138]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.21-00.10.10:014][138]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.21-00.10.10:014][138]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.21-00.10.10:014][138]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.21-00.10.10:014][138]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.21-00.10.10:061][138]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.21-00.10.10:077][138]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.21-00.10.10:095][138]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.21-00.10.10:128][138]LogExit: Exiting.
+[2017.01.21-00.10.10:152][138]Log file closed, 01/21/17 00:10:10
